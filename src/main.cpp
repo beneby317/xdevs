@@ -15,6 +15,7 @@
 
 std::int32_t main(std::int32_t argc, std::char_t *argv[])
 {
+	/// TEST
  
     { // 빈나 참조
         std::shared_ptr<my::xobject> _Uptr = std::make_shared<my::xmaneuver>();
